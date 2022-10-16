@@ -14,6 +14,17 @@ Test performed for Titan Software to prove knowledge of PHP, MySQL and JavaScrip
 * [JQuery](https://jquery.com/ "JQuery")
 * [Git](https://git-scm.com/ "Git")
 
+## Features
+
+* Add Product [YES]
+* Update Product [NO]
+* Delete Product [YES]
+* Filter Product [NO]
+
+## Files
+
+* product.sql: Contains the backup of the database used
+
 --- 
 
 [Envie-me uma mensagem](mailto:programador.leandrolopes@gmail.com "Envie-me uma mensagem") para mais informações sobre o <b>my-test-titan-software</b>.
